@@ -2,6 +2,7 @@
 
 ## Get datasets
 https://www.robots.ox.ac.uk/~vgg/data/scenetext/
+
 https://rrc.cvc.uab.es/?ch=4&com=tasks
 
 Use inference or fots_demo to use (Weights are not available).
